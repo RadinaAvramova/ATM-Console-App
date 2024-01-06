@@ -1,4 +1,4 @@
-# CSharp-ATM-Console-App
+# ATM Console App
 Use Visual Studio to create and run a C# ATM Console Application.  
 
 In this application, you’ll be able to :
